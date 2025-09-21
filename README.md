@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Trung Hieu </h1>
 
-<p align="center" width="150px"> I have been working as a Software Developer for 3 years and still counting. <br>I'm interested in software development and always want to acquire new knowledge.</p>
+<p align="center" width="150px"> I have been working as a Software Developer since 2022. <br>I'm interested in software development and always want to acquire new knowledge.</p>
 
 ### :link: &nbsp;Connect with me
 
